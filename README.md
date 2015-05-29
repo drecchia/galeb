@@ -2,7 +2,7 @@ Galeb
 ===========================
 [![Build Status](https://travis-ci.org/galeb/galeb.svg)](https://travis-ci.org/galeb/galeb)
 
-Galeb is a dynamic software router built on JBOSS Undertow and XNIO.<br/>
+**Galeb** is a dynamic software router/load balance L7 built on **JBoss Undertow** and **XNIO**.<br/><br/>
 It's a massively parallel routing system running a shared-nothing architecture.
 
 Its main features are:
@@ -12,7 +12,7 @@ Its main features are:
 * Highly scalable
 * Masterless (SNA - Shared nothing architecture)
 * Sends metrics to external counters (eg statsd)
-* Webhooks support
+* Webhooks, SPDY & HTTP2 support
 
 Building & Install
 -----
@@ -23,27 +23,27 @@ $ mvn clean install
 Using Router
 -----
 ```bash
-cd galeb-router
+cd galeb-router && \
 mvn exec:exec
 ```
 
 Using API (Router)
 -----
 ```bash
-cd galeb-api
+cd galeb-api && \
 mvn exec:exec
 ```
 
 Using HealthChecker
 -----
 ```bash
-cd galeb-healthchecker
+cd galeb-healthchecker && \
 mvn exec:exec
 ```
 
 Using Metrics
 -----
 ```bash
-cd galeb-metrics
+cd galeb-metrics && \
 mvn exec:exec
 ```
