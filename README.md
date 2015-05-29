@@ -24,7 +24,12 @@ Diagram
 -----
 ![Galeb cluster diagram](https://raw.githubusercontent.com/galeb/galeb/master/docs/static/diagram.png)
 
-Building & Install
+Requisites
+-----
+- Java 8
+- Maven 3.3.x
+
+Buildind & Install
 -----
 
 ```bash
