@@ -1,9 +1,7 @@
 Galeb
 ===========================
 
-[![Build Status](https://travis-ci.org/galeb/galeb.svg)](https://travis-ci.org/galeb/galeb)
-<br/><br/>
-[**http://galeb.io**](http://galeb.io)
+[**http://galeb.io**](http://galeb.io) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Build Status](https://travis-ci.org/galeb/galeb.svg)](https://travis-ci.org/galeb/galeb)
 <br/><br/>
 **Galeb** is a dynamic software router/load balance L7 built on **JBoss Undertow** and **XNIO**.<br/><br/>
 It's a massively parallel routing system running a shared-nothing architecture.
