@@ -14,6 +14,10 @@ Its main features are:
 * Sends metrics to external counters (eg statsd)
 * Webhooks, SPDY & HTTP2 support
 
+Diagram
+-----
+![Galeb cluster diagram](https://raw.githubusercontent.com/galeb/galeb/master/docs/static/diagram.png)
+
 Building & Install
 -----
 
