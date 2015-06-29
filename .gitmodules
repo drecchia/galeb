@@ -1,6 +1,3 @@
-[submodule "galeb-metrics"]
-	path = galeb-metrics
-	url = https://github.com/galeb/galeb-metrics.git
 [submodule "galeb-undertow"]
 	path = galeb-undertow
 	url = https://github.com/galeb/galeb-undertow.git
