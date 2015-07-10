@@ -59,13 +59,6 @@ cd galeb-healthchecker && \
 mvn exec:exec < /dev/null > /dev/null 2>&1 &
 ```
 
-Using Metrics
------
-```bash
-cd galeb-metrics && \
-mvn exec:exec < /dev/null > /dev/null 2>&1 &
-```
-
 # License
 
 ```Copyright
