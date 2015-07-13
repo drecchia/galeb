@@ -4,7 +4,7 @@
 
     <groupId>io.galeb</groupId>
     <artifactId>galeb-parent</artifactId>
-    <version>3.0.2-SNAPSHOT</version>
+    <version>3.1.1-SNAPSHOT</version>
 
     <name>Galeb</name>
     <description>Galeb</description>
@@ -29,7 +29,6 @@
         <module>galeb-core</module>
         <module>galeb-hazelcast</module>
         <module>galeb-healthchecker</module>
-        <module>galeb-metrics</module>
         <module>galeb-router</module>
         <module>galeb-statsd</module>
         <module>galeb-undertow</module>
