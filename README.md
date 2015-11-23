@@ -1,7 +1,7 @@
 Galeb
 ===========================
 
-[**http://galeb.io**](http://galeb.io) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Build Status](https://travis-ci.org/galeb/galeb.svg)](https://travis-ci.org/galeb/galeb)
+[**http://galeb.io**](http://galeb.io) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Circle CI](https://circleci.com/gh/galeb/galeb.svg?style=svg)](https://circleci.com/gh/galeb/galeb)
 <img src="https://codeship.com/projects/edcc4d90-e9b2-0132-feb9-32dfa18a9fce/status?branch=master" height="18px">
 <a href="https://scan.coverity.com/projects/3533"><img alt="Coverity Scan Build Status" src="https://scan.coverity.com/projects/3533/badge.svg"/></a>
