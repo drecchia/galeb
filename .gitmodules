@@ -1,6 +1,3 @@
-[submodule "galeb-undertow"]
-	path = galeb-undertow
-	url = https://github.com/galeb/galeb-undertow.git
 [submodule "galeb-router"]
 	path = galeb-router
 	url = https://github.com/galeb/galeb-router.git
@@ -10,12 +7,6 @@
 [submodule "galeb-api"]
 	path = galeb-api
 	url = https://github.com/galeb/galeb-api.git
-[submodule "galeb-hazelcast"]
-	path = galeb-hazelcast
-	url = https://github.com/galeb/galeb-hazelcast.git
-[submodule "galeb-statsd"]
-	path = galeb-statsd
-	url = https://github.com/galeb/galeb-statsd.git
-[submodule "galeb-core"]
-	path = galeb-core
-	url = https://github.com/galeb/galeb-core.git
+[submodule "galeb-libraries"]
+	path = galeb-libraries
+	url = https://github.com/galeb/galeb-libraries.git
