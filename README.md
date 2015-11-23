@@ -1,12 +1,13 @@
 Galeb
 ===========================
 
-[**http://galeb.io**](http://galeb.io) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Circle CI](https://circleci.com/gh/galeb/galeb.svg?style=svg)](https://circleci.com/gh/galeb/galeb)
 <img src="https://codeship.com/projects/edcc4d90-e9b2-0132-feb9-32dfa18a9fce/status?branch=master" height="18px">
 <a href="https://scan.coverity.com/projects/3533"><img alt="Coverity Scan Build Status" src="https://scan.coverity.com/projects/3533/badge.svg"/></a>
 <br/><br/>
 **Galeb** is a dynamic software router/load balance L7 built on **JBoss Undertow** and **XNIO**.<br/><br/>
+(See more: [**http://galeb.io**](http://galeb.io)&nbsp;&nbsp;-&nbsp;&nbsp;[**https://github.com/galeb**](https://github.com/galeb))<br/><br/>
+
 It's a massively parallel routing system running a shared-nothing architecture.
 
 Its main features are:
